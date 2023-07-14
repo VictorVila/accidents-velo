@@ -11,5 +11,55 @@ Bases de données annuelles des accidents corporels de la circulation routière 
 
 Aménagements cyclables - Géovélo : https://amenagements-cyclables.fr/fr/stats 
 
+## Chiffres-clés
 
- 
+* Total 
+    * Nombre d'accidents  
+
+* Usagers
+    * Sexe 
+    * Age
+    * Gravités : indemne, blessé léger, blessé hospitalisé, tué
+    * Trajet
+    * Catégorie usager : conducteur, passager, piéton 
+    * Localisation piéton 
+
+* Dimension temporelle  
+    * An
+    * Mois
+    * Jour
+    * Heure
+    * Minute
+
+* Dimension spatiale
+    * Département
+    * Commune
+    * Lat, long
+
+* Conditions 
+    * Luminosité
+    * Agglomération
+    * Intersection
+    * Méteo
+    * Collision
+
+* Véhicules
+    * Catégorie de véhicule
+    * Sens circulation
+    * Manoeuvre principale avant l’accident
+    * Obstacle fixe heurté
+    * Obstacle mobile heurté  
+
+* Lieux 
+    * Catégorie de route
+    * Régime de circulation 
+    * Nombre total de voies de circulation.
+    * Etat de la surface 
+    * Aménagement - Infrastructure 
+    * Situation de l’accident 
+    * Vitesse maximale autorisée sur le lieu et au moment de l’accident
+
+## Faits notables
+
+* 2020 COVID
+* 2021 Explosion vélo
